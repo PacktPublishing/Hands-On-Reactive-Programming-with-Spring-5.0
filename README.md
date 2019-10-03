@@ -1,4 +1,4 @@
-# -Mastering Spring Boot 2.x
+# -Hands-On Reactive Programming with Spring 5.0
 This is the code repository for [Hands-On Reactive Programming with Spring 5.0 [Video]](https://www.packtpub.com/programming/hands-on-reactive-programming-with-spring-5-0-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
 
